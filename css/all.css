@@ -240,7 +240,7 @@ a {
 }
 
 .works img {
-  width: 100%;
+  width: 98%;
 }
 
 .works h2 {
@@ -321,6 +321,9 @@ a {
   }
   .myBrand-img ul li {
     margin-bottom: 32px;
+  }
+  .works img {
+    width: 100%;
   }
   .works ul {
     display: block;
